@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/dicta-harum-reprehenderit-provident",
-  "version": "10.4.80",
+  "version": "11.4.80",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -144,5 +144,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/dicta-harum-reprehenderit-provident/issues"
   },
-  "packageManager": "yarn@4.3.1"
+  "packageManager": "yarn@4.4.0"
 }
